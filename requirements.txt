@@ -1,0 +1,46 @@
+# requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+gitpython
+ipython
+matplotlib
+numpy
+opencv-python
+Pillow
+psutil
+PyYAML
+requests
+scipy
+thop
+torch
+torchvision
+tqdm
+# protobuf<=3.20.1
+
+# Logging ---------------------------------------------------------------------
+tensorboard
+# clearml>=1.2.0
+# comet
+
+# Plotting --------------------------------------------------------------------
+pandas
+seaborn
+
+# Export ----------------------------------------------------------------------
+# coremltools>=6.0
+# onnx>=1.9.0
+# onnx-simplifier>=0.4.1
+# nvidia-pyindex
+# nvidia-tensorrt
+# scikit-learn<=1.1.2
+# tensorflow>=2.4.1
+# tensorflowjs>=3.9.0
+# openvino-dev
+
+# Deploy ----------------------------------------------------------------------
+# tritonclient[all]~=2.24.0
+
+# Extras ----------------------------------------------------------------------
+# mss
+albumentations
